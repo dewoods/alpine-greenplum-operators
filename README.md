@@ -1,4 +1,4 @@
-sqlfire-rabbitmq-asynceventlistener
+alpine-greenplum-operators
 ===================================
 
 Set of Greenplum data manipulation plugin operators for [Alpine](http://www.alpinenow.com)
